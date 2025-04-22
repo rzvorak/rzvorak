@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">CS/EE @ UW Madison, incoming Software Development Intern at Zurich</p>
+<p align="left">CS/EE @ UW Madison</p>
 
 ###
 
