@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📫 Reach me at ryderzvorak@gmail.com</p>
+<p align="left">📫 Reach me at ryderzvorak@gmail.com or zvorak@wisc.edu</p>
 
 ###
 
